@@ -1,0 +1,19 @@
+h1 {
+  color: red;
+  float: center;
+}
+.block {
+  height: 40px;
+  width: 100%;
+  background-color: black;
+  color: white;
+}
+.btn-silver {
+  transition-duration: 1s;
+  background-color: pink;
+  background-color: gray;
+  border-style: solid 2px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 5px;
+  color: white;
+}
